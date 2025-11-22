@@ -938,6 +938,8 @@ footer {
 @media screen and (min-width: 1200px) {
   .div-foot {
     display: flex;
+    align-items: flex-start;
+    gap: 20px;
   }
 }
 
@@ -1040,7 +1042,6 @@ footer {
   font-weight: 700;
   line-height: normal;
   text-transform: uppercase;
-  margin-top: 60px;
 }
 @media screen and (min-width: 1200px) {
   .h2-foot-svg {
@@ -1059,6 +1060,7 @@ footer {
 @media screen and (min-width: 1200px) {
   .svg-ul-2 {
     display: flex;
+    justify-content: flex-start;
   }
 }
 
