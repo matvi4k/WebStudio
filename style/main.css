@@ -347,7 +347,7 @@ a {
 }
 
 .section-1 {
-  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../img/img.webp);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../../img/Img.webp);
   padding-top: 118px;
   padding-bottom: 118px;
   background-repeat: no-repeat;
@@ -487,19 +487,19 @@ a {
   }
 }
 .li-svg-1::before {
-  background-image: url(../../img/antenna1.svg);
+  background-image: url(../img/antenna1.svg);
 }
 
 .li-svg-2::before {
-  background-image: url(../../img/clock1.svg);
+  background-image: url(../img/clock1.svg);
 }
 
 .li-svg-3::before {
-  background-image: url(../../img/diagram1.svg);
+  background-image: url(../img/diagram1.svg);
 }
 
 .li-svg-4::before {
-  background-image: url(../../img/astronaut1.svg);
+  background-image: url(../img/astronaut1.svg);
 }
 
 .b-li-section2 {
